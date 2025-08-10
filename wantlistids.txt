@@ -1,1 +1,1 @@
-SC Kill Tracker ID Username@SCKillTrac
+wantlistids.txt SC Kill Tracker ID Username@SCKillTrac (https://github.com/HarleyTG-O/sckillprivate/edit/main/wantlistids.txt)
